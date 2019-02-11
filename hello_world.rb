@@ -1,1 +1,1 @@
-puts "Hello World!"
+puts "Hello World!"link_to_unless_current 
